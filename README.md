@@ -39,7 +39,7 @@ You can install the necessary dependencies using `pip`:
 
 pip install torch torchvision numpy matplotlib jupyter
 
-git clone [[Your Repository URL Here](https://github.com/AnuragNalla/Convolution_in_CNNs_Filter_Visualization)]
+git clone [(https://github.com/AnuragNalla/Convolution_in_CNNs_Filter_Visualization)]
 cd Convolution_in_CNNs_Filter_Visualization
 
 Run All Cells: Execute all cells in the notebook sequentially. The script will automatically download the MNIST dataset, train the CNN, and display the two critical visualization figures.
